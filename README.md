@@ -33,7 +33,7 @@ I designed this dashboard with a seamless **Navigation System** to allow users t
 * `Data/`: Anonymized HR dataset.
 
 ## Home Dashboard
-<img width="678" height="381" alt="Home Dashboards" src="https://github.com/user-attachments/assets/c06ae2a9-bdab-4d32-8523-008eddf5efed" />
+<img width="678" height="381" alt="Home Dashboards" src="https://github.com/user-attachments/assets/1750781e-c4c0-4919-b47e-012794464a3f" />
 
 ## Action Dashboard
 <img width="662" height="377" alt="Action Dashboards" src="https://github.com/user-attachments/assets/53adb0a1-38ae-4c24-bb85-c15c30b2f245" />
